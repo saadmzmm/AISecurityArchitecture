@@ -18,3 +18,7 @@ A production-ready FastAPI microservice demonstrating advanced LLM security tech
 3. Set your API key: `export GEMINI_API_KEY="your_key"`
 4. Boot the server: `uvicorn day4_finaproductapi:app --reload`
 5. Visit `http://127.0.0.1:8000/docs` to test attacks against the API.
+
+<img width="800" height="450" alt="VideoProject-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/9185e5e7-4460-4524-8da5-f0e946e9cc69" />
+
+
