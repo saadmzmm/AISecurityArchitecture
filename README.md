@@ -16,5 +16,5 @@ A production-ready FastAPI microservice demonstrating advanced LLM security tech
 1. Clone the repo.
 2. Run `pip install -r requirements.txt` (fastapi, uvicorn, google-genai, pydantic).
 3. Set your API key: `export GEMINI_API_KEY="your_key"`
-4. Boot the server: `uvicorn src.day4_api:app --reload`
+4. Boot the server: `uvicorn day4_finaproductapi:app --reload`
 5. Visit `http://127.0.0.1:8000/docs` to test attacks against the API.
